@@ -1,0 +1,15 @@
+C:\Cursos_Plataforma_DIO\bin\Debug\net7.0\Cursos_Plataforma_DIO.exe
+C:\Cursos_Plataforma_DIO\bin\Debug\net7.0\Cursos_Plataforma_DIO.deps.json
+C:\Cursos_Plataforma_DIO\bin\Debug\net7.0\Cursos_Plataforma_DIO.runtimeconfig.json
+C:\Cursos_Plataforma_DIO\bin\Debug\net7.0\Cursos_Plataforma_DIO.dll
+C:\Cursos_Plataforma_DIO\bin\Debug\net7.0\Cursos_Plataforma_DIO.pdb
+C:\Cursos_Plataforma_DIO\obj\Debug\net7.0\Cursos_Plataforma_DIO.csproj.AssemblyReference.cache
+C:\Cursos_Plataforma_DIO\obj\Debug\net7.0\Cursos_Plataforma_DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Plataforma_DIO\obj\Debug\net7.0\Cursos_Plataforma_DIO.AssemblyInfoInputs.cache
+C:\Cursos_Plataforma_DIO\obj\Debug\net7.0\Cursos_Plataforma_DIO.AssemblyInfo.cs
+C:\Cursos_Plataforma_DIO\obj\Debug\net7.0\Cursos_Plataforma_DIO.csproj.CoreCompileInputs.cache
+C:\Cursos_Plataforma_DIO\obj\Debug\net7.0\Cursos_Plataforma_DIO.dll
+C:\Cursos_Plataforma_DIO\obj\Debug\net7.0\refint\Cursos_Plataforma_DIO.dll
+C:\Cursos_Plataforma_DIO\obj\Debug\net7.0\Cursos_Plataforma_DIO.pdb
+C:\Cursos_Plataforma_DIO\obj\Debug\net7.0\Cursos_Plataforma_DIO.genruntimeconfig.cache
+C:\Cursos_Plataforma_DIO\obj\Debug\net7.0\ref\Cursos_Plataforma_DIO.dll
